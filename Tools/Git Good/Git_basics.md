@@ -30,4 +30,3 @@
 
 -git remote add origin https://github.com/gyulii/Test_git_repo.git
 -git push --set-upstream origin master
--
